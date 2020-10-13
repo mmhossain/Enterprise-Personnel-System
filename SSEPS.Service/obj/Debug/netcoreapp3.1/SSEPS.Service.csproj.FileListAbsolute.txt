@@ -1,0 +1,12 @@
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\bin\Debug\netcoreapp3.1\SSEPS.Service.deps.json
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\bin\Debug\netcoreapp3.1\SSEPS.Service.dll
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\bin\Debug\netcoreapp3.1\SSEPS.Service.pdb
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\bin\Debug\netcoreapp3.1\SSEPS.Domain.dll
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\bin\Debug\netcoreapp3.1\SSEPS.Domain.pdb
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\obj\Debug\netcoreapp3.1\SSEPS.Service.csprojAssemblyReference.cache
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\obj\Debug\netcoreapp3.1\SSEPS.Service.csproj.CoreCompileInputs.cache
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\obj\Debug\netcoreapp3.1\SSEPS.Service.AssemblyInfoInputs.cache
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\obj\Debug\netcoreapp3.1\SSEPS.Service.AssemblyInfo.cs
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\obj\Debug\netcoreapp3.1\SSEPS.Service.csproj.CopyComplete
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\obj\Debug\netcoreapp3.1\SSEPS.Service.dll
+D:\Docs\Career\Tyler\sseps\SSEPS.Service\obj\Debug\netcoreapp3.1\SSEPS.Service.pdb

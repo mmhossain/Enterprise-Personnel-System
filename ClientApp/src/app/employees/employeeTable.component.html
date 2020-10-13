@@ -1,0 +1,71 @@
+<form>
+  <div class="form-group">
+    <label for="managerId">Manager</label>
+    <select
+      #managerId
+      name="managerId"
+      id="managerId"
+      class="form-control"
+      (change)="getEmployeesByManager(managerId.value)"
+    >
+      <option value="">All</option>
+      <option *ngFor="let e of managers" [value]="e.employeeId">{{
+        e.firstName + " " + e.lastName
+      }}</option>
+    </select>
+  </div>
+</form>
+<table class="table table-striped table-bordered">
+  <tbody>
+    <tr>
+      <th>Employee ID</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Manager</th>
+      <th></th>
+    </tr>
+    <tr *ngFor="let employee of employees">
+      <td>{{ employee.employeeId }}</td>
+      <td>{{ employee.firstName }}</td>
+      <td>{{ employee.lastName }}</td>
+      <td>
+        {{
+          employee.manager &&
+            employee.manager?.firstName + " " + employee.manager?.lastName
+        }}
+      </td>
+      <td>
+        <a [routerLink]="['/employees/', employee.employeeId]">Edit</a>
+      </td>
+    </tr>
+    <tr *ngIf="employees.length == 0">
+      <td colspan="5">
+        No one reporting to
+        {{
+          selectedManager &&
+            selectedManager?.firstName + " " + selectedManager?.lastName
+        }}
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a routerLink="employees/new" class="btn btn-primary">Add Employee</a>
+      </td>
+      <td>
+        <nav>
+          <ul class="pagination">
+            <li class="page-item">
+              <a class="page-link">1</a>
+            </li>
+          </ul>
+        </nav>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table></table>

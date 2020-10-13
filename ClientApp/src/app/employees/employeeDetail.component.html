@@ -1,0 +1,86 @@
+<form #f="ngForm" (ngSubmit)="save(f.value)">
+  <div class="form-group">
+    <label for="managerId">Manager</label>
+    <select
+      #managerId="ngModel"
+      [(ngModel)]="employee.managerId"
+      name="managerId"
+      id="managerId"
+      class="form-control"
+    >
+      <option value=""></option>
+      <option *ngFor="let m of managers" [value]="m.employeeId">{{
+        m.firstName + " " + m.lastName
+      }}</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="employeeId">Employee ID</label>
+    <input
+      #employeeId="ngModel"
+      [(ngModel)]="employee.employeeId"
+      name="employeeId"
+      id="employeeId"
+      type="text"
+      class="form-control"
+      required
+    />
+    <div
+      class="alert alert-danger"
+      *ngIf="employeeId.touched && employeeId.invalid"
+    >
+      Title is required.
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="firstName">First Name</label>
+    <input
+      #firstName="ngModel"
+      [(ngModel)]="employee.firstName"
+      name="firstName"
+      id="firstName"
+      type="text"
+      class="form-control"
+      required
+    />
+    <div
+      class="alert alert-danger"
+      *ngIf="firstName.touched && firstName.invalid"
+    >
+      First Name is required.
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="lastName">Last Name</label>
+    <input
+      #lastName="ngModel"
+      [(ngModel)]="employee.lastName"
+      name="lastName"
+      id="lastName"
+      type="text"
+      class="form-control"
+      required
+    />
+    <div
+      class="alert alert-danger"
+      *ngIf="lastName.touched && lastName.invalid"
+    >
+      Last Name is required.
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="roles">Roles</label>
+    <select
+      #managerId="ngModel"
+      [(ngModel)]="selectedRoles"
+      name="roles"
+      id="roles"
+      class="form-control"
+      multiple
+    >
+      <option *ngFor="let r of allRoles" [value]="r">{{ r.name }}</option>
+    </select>
+  </div>
+  <button class="btn btn-primary">Save</button>
+  <button class="btn btn-primary ml-2" routerLink="/">Cancel</button>
+</form>

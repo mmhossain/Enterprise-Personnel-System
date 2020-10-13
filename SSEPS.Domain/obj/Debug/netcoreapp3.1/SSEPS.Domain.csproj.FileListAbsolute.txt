@@ -1,0 +1,11 @@
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\bin\Debug\netcoreapp3.1\SSEPS.Domain.deps.json
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\bin\Debug\netcoreapp3.1\SSEPS.Domain.runtimeconfig.json
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\bin\Debug\netcoreapp3.1\SSEPS.Domain.runtimeconfig.dev.json
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\bin\Debug\netcoreapp3.1\SSEPS.Domain.dll
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\bin\Debug\netcoreapp3.1\SSEPS.Domain.pdb
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\obj\Debug\netcoreapp3.1\SSEPS.Domain.csproj.CoreCompileInputs.cache
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\obj\Debug\netcoreapp3.1\SSEPS.Domain.AssemblyInfoInputs.cache
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\obj\Debug\netcoreapp3.1\SSEPS.Domain.AssemblyInfo.cs
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\obj\Debug\netcoreapp3.1\SSEPS.Domain.dll
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\obj\Debug\netcoreapp3.1\SSEPS.Domain.pdb
+D:\Docs\Career\Tyler\sseps\SSEPS.Domain\obj\Debug\netcoreapp3.1\SSEPS.Domain.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SSEPS.Domain\SSEPS.Domain.csproj" />
+    <ProjectReference Include="..\SSEPS.Repository\SSEPS.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

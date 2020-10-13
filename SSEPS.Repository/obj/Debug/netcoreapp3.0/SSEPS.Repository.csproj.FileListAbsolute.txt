@@ -1,0 +1,15 @@
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\bin\Debug\netcoreapp3.0\SSEPS.Repository.deps.json
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\bin\Debug\netcoreapp3.0\SSEPS.Repository.runtimeconfig.json
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\bin\Debug\netcoreapp3.0\SSEPS.Repository.runtimeconfig.dev.json
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\bin\Debug\netcoreapp3.0\SSEPS.Repository.dll
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\bin\Debug\netcoreapp3.0\SSEPS.Repository.pdb
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\bin\Debug\netcoreapp3.0\SSEPS.Domain.dll
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\bin\Debug\netcoreapp3.0\SSEPS.Domain.pdb
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\obj\Debug\netcoreapp3.0\SSEPS.Repository.csprojAssemblyReference.cache
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\obj\Debug\netcoreapp3.0\SSEPS.Repository.csproj.CoreCompileInputs.cache
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\obj\Debug\netcoreapp3.0\SSEPS.Repository.AssemblyInfoInputs.cache
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\obj\Debug\netcoreapp3.0\SSEPS.Repository.AssemblyInfo.cs
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\obj\Debug\netcoreapp3.0\SSEPS.Repository.csproj.CopyComplete
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\obj\Debug\netcoreapp3.0\SSEPS.Repository.dll
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\obj\Debug\netcoreapp3.0\SSEPS.Repository.pdb
+D:\Docs\Career\Tyler\sseps\SSEPS.Repository\obj\Debug\netcoreapp3.0\SSEPS.Repository.genruntimeconfig.cache
